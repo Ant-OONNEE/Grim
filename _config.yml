@@ -1,16 +1,16 @@
 ---
-title: GTFOBins
+title: Grimoire
 
 exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md', '/CONTRIBUTING.md']
 
 permalink: pretty
 
 collections:
-  gtfobins:
+  grimoire:
     output: true
 
 defaults:
   - scope:
-      path: '_gtfobins'
+      path: '_grimoire'
     values:
       layout: bin
