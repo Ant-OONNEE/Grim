@@ -45,5 +45,5 @@ Before sending a pull request of a new binary or function, ensure the following:
 Pull requests adding new functions in [`_data/functions.yml`] are allowed and subjected to project maintainers vetting.
 
 [YAML]: https://yaml.org/
-[`_grimoire/`]: https://github.com/Ant-OONNEE/Grim/tree/master/_grimoire
-[`_data/functions.yml`]: https://github.com/Ant-OONNEE/Grim/tree/master/blob/master/_data/functions.yml
+[`_grimoire/`]: https://github.com/Ant-OONNEE/Grim/_grimoire
+[`_data/functions.yml`]: https://github.com/Ant-OONNEE/Grim/_data/functions.yml
